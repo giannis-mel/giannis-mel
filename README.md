@@ -1,16 +1,29 @@
-### Hi there 👋
+## 💻 Tech Stack
+- **Languages:** 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-<!--
-**giannis-mel/giannis-mel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Technologies and Tools** 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![STM32](https://img.shields.io/badge/stm32cubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![MATLAB](https://img.shields.io/badge/matlab-%23007ACC.svg?style=flat&logo=matlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 
-Here are some ideas to get you started:
+-  **Libraries and Frameworks**
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-007ACC?style=flat)
+![MPI](https://img.shields.io/badge/MPI-76B900?style=flat)
+![Posix Threads](https://img.shields.io/badge/Posix%20Threads-FF6C37?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Areas of Interest 
+- **REST API Development & Testing**
+- **Parallel and Distributed Systems**
+- **Biomedical Engineering**
+- **Embedded Systems**
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giannis-meleziadis)
