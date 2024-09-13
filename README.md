@@ -34,3 +34,4 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giannis-meleziadis)
+[![CodeWars](https://www.codewars.com/users/giannis-mel/badges/micro)](https://www.codewars.com/users/giannis-mel)
